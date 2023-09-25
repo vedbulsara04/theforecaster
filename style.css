@@ -76,6 +76,17 @@ h1 {
 .weather-input .location-btn:hover {
   background: #5c636a;
 }
+
+/* -------------------------------- */
+input {
+  text-align: center;
+}
+
+::-webkit-input-placeholder {
+  text-align: center;
+}
+/* -------------------------------- */
+
 .weather-data {
   width: 100%;
 }
