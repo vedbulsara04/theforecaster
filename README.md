@@ -1,4 +1,5 @@
-# The ForeCaster: A weather-forecasting web-application
+# The ForeCaster: 
+` A Weather-Forecasting web-application `
 
 ## This project is maintained by :
 > [@vedbulsara04](https://github.com/vedbulsara04)
