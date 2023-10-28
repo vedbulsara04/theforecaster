@@ -1,6 +1,8 @@
 # The ForeCaster: 
 ` A Weather-Forecasting web-application `
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e9450ef3-409b-47f9-9c5d-405b380efcb9/deploy-status)](https://app.netlify.com/sites/theforecaster/deploys)
+
 ## This project is maintained by :
 > [@vedbulsara04](https://github.com/vedbulsara04)
 
