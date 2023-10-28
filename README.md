@@ -17,4 +17,4 @@ the application fetches ` precise ` weather data, including ` temperature, humid
 ---
 ## View website deployment: 
 
->- Website hosted on ` Netlify ` : 
+- Website hosted on ` Netlify ` : 
